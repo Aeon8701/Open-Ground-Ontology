@@ -463,3 +463,57 @@ The Perpetualist Constitution is not unfalsifiable but self-vulnerable. Its axio
 By naming its own scaffolding as rupture-prone, Perpetualism avoids the trap of universality. It disciplines physics not as a final truth but as a living constitution—binding for now, subject to revision, perpetually open to collapse.
 
 The strange remains strange, even for Perpetualism itself.
+
+Appendix V: On Extension versus Invalidation
+
+A final concern remains: how does Perpetualism distinguish between ruptures that extend its scaffolding and ruptures that invalidate it altogether? If every rupture is reabsorbed as extension, the Constitution risks elasticity so great it loses its bite. If some ruptures truly refute the framework, then Perpetualism must name the conditions of its own collapse.
+
+1. Rupture as Extension
+
+A rupture extends the Constitution when it discloses phenomena that:
+
+Preserve recursion as the minimum grammar of articulation-being,
+
+While revealing inadequacy in one or more axioms (coherence, noise, rupture, adaptability, integration, revelation).
+
+Such ruptures expand the scaffolding without breaking it.
+
+Example: If physics revealed that noise operates not just as turbulence but as structured ambiguity with its own grammar, this would not invalidate Perpetualism—it would refine the axiom of noise utilization, sharpening fidelity to recursion.
+
+Rupture-as-extension shows that the Constitution was too narrow but not misgrounded. The minimum grammar of recursion remains intact, but its articulation requires new constraints.
+
+2. Rupture as Invalidation
+
+A rupture invalidates the Constitution when it discloses phenomena that:
+
+Violate recursion itself, showing observer, object, and medium no longer constitute articulation,
+
+Or demonstrate that articulation-being does not require recursion at all.
+
+This would mean recursion is not the minimum grammar but a local feature of certain domains of encounter.
+
+Example: If a framework were discovered in which interaction occurs without triadic structure—no mediation, no relational loop, no differentiation of knower and known—then recursion would be shown not as minimum but as contingent.
+
+Such a rupture would collapse Perpetualism’s scaffolding entirely. Its axioms would no longer constrain physics, because the grammar they presuppose would not be fundamental.
+
+3. The Diagnostic Criterion
+
+The distinction can be sharpened into a diagnostic rule:
+
+If rupture preserves recursion while transforming axioms → extension.
+
+If rupture abolishes recursion itself → invalidation.
+
+This criterion acknowledges that Perpetualism can fracture in two ways: through growth or through collapse. It prevents the framework from absorbing every challenge as confirmation.
+
+4. On the Possibility of Invalidation
+
+Can recursion itself ever be genuinely abolished? Perpetualism does not claim immunity. It concedes that if articulation-being were shown to occur without recursion, then the Constitution would fail. Yet it also argues that such a demonstration would be paradoxical, since even articulating that discovery would reintroduce recursion.
+
+Thus, invalidation may be conceptually possible but existentially unstable. It remains an open wound at the edge of articulation. Naming that wound is fidelity, not weakness.
+
+5. Final Clarification
+
+Perpetualism avoids elasticity without limit by distinguishing extension from invalidation. Extensions occur when recursion is preserved but the axioms must evolve. Invalidations occur if recursion itself is shown not to be the minimum grammar.
+
+By acknowledging this possibility, the Constitution maintains its integrity: it cannot absorb all rupture as growth. It can be extended, but it can also collapse. Its strength lies in being open to both.
